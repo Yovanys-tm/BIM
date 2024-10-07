@@ -6,7 +6,7 @@ Guía para Crear y Probar la Vulnerabilidad
 
   En primer lugar, asegúrate de tener instalado git y node.js. Luego, clona tu repositorio:
   bash: 
-  git clone https://github.com/Yovanys-tm/ContratoVulnerable/tree/master.git
+  git clone https://github.com/Yovanys-tm/ContratoVulnerable.git  
   cd vulnerable-smart-contract
 
 2. Instalar dependencias:
